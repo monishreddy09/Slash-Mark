@@ -1,0 +1,26 @@
+[
+  {
+    "document_a":"john.txt",
+    "document_b":"juma.txt",
+    "cosine_similarity":0.436352,
+    "fuzzy_similarity":0.755102,
+    "combined_score":0.531977,
+    "flagged":false
+  },
+  {
+    "document_a":"fatma.txt",
+    "document_b":"john.txt",
+    "cosine_similarity":0.096344,
+    "fuzzy_similarity":0.555556,
+    "combined_score":0.234108,
+    "flagged":false
+  },
+  {
+    "document_a":"fatma.txt",
+    "document_b":"juma.txt",
+    "cosine_similarity":0.092317,
+    "fuzzy_similarity":0.551724,
+    "combined_score":0.230139,
+    "flagged":false
+  }
+]
