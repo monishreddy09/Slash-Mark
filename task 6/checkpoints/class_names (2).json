@@ -1,0 +1,11 @@
+{
+  "class_names": [
+    "straight",
+    "left",
+    "right"
+  ],
+  "img_size": [
+    72,
+    128
+  ]
+}
