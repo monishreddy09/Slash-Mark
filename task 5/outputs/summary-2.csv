@@ -1,0 +1,2 @@
+input,output,frames,avg_steering,avg_throttle
+solidWhiteRight.jpg,outputs2/solidWhiteRight_annotated.png,1,0.02013667325867275,0.20000000000000007

@@ -1,0 +1,2 @@
+input,output,frames,avg_steering,avg_throttle
+video test-1.mp4,outputs_my_video\video test-1_annotated.mp4,956,-0.051122714884323926,0.17050933307494273

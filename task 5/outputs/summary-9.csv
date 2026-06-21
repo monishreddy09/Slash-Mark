@@ -1,0 +1,2 @@
+input,output,frames,avg_steering,avg_throttle
+solidWhiteRight.mp4,outputs_video/solidWhiteRight_annotated.mp4,20,0.01647154777816933,0.47595394019625087

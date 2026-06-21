@@ -1,0 +1,2 @@
+input,output,frames,avg_steering,avg_throttle
+test-2.png,outputs_test2\test-2_annotated.png,1,0.0,0.20000000000000007
