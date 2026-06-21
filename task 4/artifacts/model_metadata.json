@@ -1,0 +1,13 @@
+{
+  "selected_model": "balanced_rf",
+  "selected_threshold": 0.99,
+  "feature_count": 36,
+  "train_size": 182276,
+  "validation_size": 45569,
+  "test_size": 56962,
+  "fp_cost": 1.0,
+  "fn_cost": 25.0,
+  "cv_results_file": "cv_results.csv",
+  "validation_results_file": "validation_results.csv",
+  "test_metrics_file": "test_metrics.json"
+}

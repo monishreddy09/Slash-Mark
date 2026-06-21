@@ -1,0 +1,20 @@
+{
+  "test_pr_auc": 0.7654736919458957,
+  "test_roc_auc": 0.978322607180182,
+  "test_precision": 0.85,
+  "test_recall": 0.6938775510204082,
+  "test_f1": 0.7640449438202247,
+  "test_balanced_accuracy": 0.8468332605974298,
+  "test_cost": 762.0,
+  "threshold": 0.99,
+  "confusion_matrix": [
+    [
+      56852,
+      12
+    ],
+    [
+      30,
+      68
+    ]
+  ]
+}
