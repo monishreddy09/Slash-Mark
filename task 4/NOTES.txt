@@ -1,0 +1,2 @@
+This folder contains a complete fraud detection training pipeline based on the reference notebook.
+Run train_fraud_model.py with the Kaggle creditcard.csv dataset.
